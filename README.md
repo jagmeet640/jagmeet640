@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jagmeet640
 - 👀 I’m interested in ML and data science
-- 🌱 I’m currently learning java, pyhton , pandas, tensorflow, powerBI
+- 🌱 Skills in python, tensorflow, pandas, sklearn, PowerBI, Tableau
 - 📫 How to reach me jagmeetghotra2002@gmail.com
 
 <!---
